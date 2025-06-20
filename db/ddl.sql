@@ -1,0 +1,13 @@
+DROP DATABASE IF EXISTS rpaPixProject;
+
+CREATE DATABASE rpaPixProject;
+
+USE rpaPixProject;
+
+CREATE TABLE IF NOT EXISTS products (
+id INT PRIMARY KEY AUTO_INCREMENT,
+title VARCHAR(100),
+price DECIMAL(10,2),
+category VARCHAR(100),
+description TEXT,
+insertionDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
