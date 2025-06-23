@@ -45,7 +45,7 @@ Proyecto basado en el proceso RPA (Automatización Robótica de Procesos) para l
 ## 📽️ Video Explicativo
 
 🎥 El siguiente video muestra la ejecución completa del flujo automatizado:  
-📎 *[]*
+📎 *[Video Explicativo](https://www.canva.com/design/DAGq2TTcyOY/t6Nt74vpg6Na5SP27sgcFA/edit?utm_content=DAGq2TTcyOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
 
 ## 👩‍💻 Desarrollado por
 
