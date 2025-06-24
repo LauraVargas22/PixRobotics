@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixAutomation", "PixAutomation\PixAutomation.csproj", "{9B61B09D-FE30-9B28-2338-6C6BAA26CF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B61B09D-FE30-9B28-2338-6C6BAA26CF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B61B09D-FE30-9B28-2338-6C6BAA26CF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B61B09D-FE30-9B28-2338-6C6BAA26CF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B61B09D-FE30-9B28-2338-6C6BAA26CF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF103C7F-9E83-4DC0-97A2-C993D1BF43FC}
+	EndGlobalSection
+EndGlobal

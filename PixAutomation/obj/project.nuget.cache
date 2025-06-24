@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMcy7cLxCfI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Downloads\\PixRobotics\\PixRobotics\\PixAutomation\\PixAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\selenium.webdriver\\4.33.0\\selenium.webdriver.4.33.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.11900\\selenium.webdriver.chromedriver.137.0.7151.11900.nupkg.sha512"
+  ],
+  "logs": []
+}

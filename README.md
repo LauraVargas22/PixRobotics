@@ -42,6 +42,23 @@ Proyecto basado en el proceso RPA (Automatización Robótica de Procesos) para l
 - En la carpeta Logs encontrará el archivo .json obtenido del consumo de API.
 - En la carpeta Reporte encontrará el archivo excel con las estadísticas generadas.
 
+## Pix Automation:
+En este proyecto C# realizado se encontrará la parte número 4 de la prueba técnica la cual consiste en el envio del reporte generado por medio de un formulario tomando como evidencia la [captura de pantalla](./Proyecto/Evidencias/Evidencia_2025-06-23_210501.png).
+
+### Requisitos:
+- Chrome Driver
+
+### Ejecución:
+- Cambie las rutas de las carpetas según corresponda
+```
+@"C:\Users\USUARIO\Downloads\PixRobotics\PixRobotics\Proyecto\Reporte"
+```
+```
+cd PixAutomation
+dotnet build
+dotnet run
+```
+
 ## 📽️ Video Explicativo
 
 🎥 El siguiente video muestra la ejecución completa del flujo automatizado:  
